@@ -86,8 +86,8 @@ Karena menggunakan Google Apps Script (Bound Script), proses instalasinya adalah
 1. Di editor Apps Script, klik tombol **Terapkan (Deploy) > Deployment Baru**.
 2. Pilih jenis **Aplikasi Web (Web App)**.
 3. Atur konfigurasi:
-   - **Jalankan sebagai:** Saya (Email Anda).
-   - **Siapa yang memiliki akses:** Siapa saja yang memiliki Akun Google.
+   - **Jalankan sebagai:** User accessing the web app (Pengguna yang mengakses aplikasi web).
+   - **Siapa yang memiliki akses:** Anyone with Google account (Siapa saja yang memiliki Akun Google).
 4. Klik **Terapkan**, setujui izin otorisasi (_permissions_), dan salin URL Web App yang dihasilkan.
 5. Sistem siap digunakan!
 
